@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cybercubist
-- 👀 I’m interested in data analysis, data science, financial markets and investing.
+- 👀 I’m interested in data analysis, data science, deep learning, financial markets and investing.
 - 🌱 I’m currently learning LLMs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
